@@ -1,0 +1,8 @@
+tomorrow 
+- the chess pieces cannot move on each others
+- when there is a checkmate end the game 
+- cannot castling
+- ỉmprove bot
+
+Wednesday
+-
