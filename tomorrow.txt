@@ -5,4 +5,6 @@ tomorrow
 - ỉmprove bot
 
 Wednesday
--
+- improve bots
+- improve check/checkmate for more accurate
+- maybe write a report for this personal project
